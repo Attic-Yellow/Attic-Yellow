@@ -21,7 +21,6 @@
 
 
 # 📫 Contacts
-[![Tstory Badge](http://img.shields.io/badge/-tistory-000000?style=flat-square&logo=tistory&link=https://garret_doggy.tistory.com/)](https://garret_doggy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chtori1202@gmail.com)](mailto:chtori1202@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ziou000@naver.com)](mailto:ziou000@naver.com)
  
