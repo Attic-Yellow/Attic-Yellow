@@ -12,11 +12,12 @@
 ### Platforms & Languages
 ![csharp](https://img.shields.io/badge/c%20sharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/c%20++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
+![visualstudio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![unity](https://img.shields.io/badge/unity-000001.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 
 # 📫 Contacts
