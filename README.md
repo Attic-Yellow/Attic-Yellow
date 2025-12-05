@@ -1,6 +1,10 @@
 # Welcome to my git 😄
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAttic-Yellow&count_bg=%23E8D9FF&title_bg=%23FFD9EC&icon=&icon_color=%23FAE0D4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+###
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FAttic-Yellow?color=green&label=hits&size=small)](https://myhits.vercel.app)
+###
+###
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Attic-Yellow&show_icons=true&theme=dracula&hide_border=true)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ziou000)](https://solved.ac/ziou000)
