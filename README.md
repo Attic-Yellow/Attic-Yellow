@@ -5,7 +5,7 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FAttic-Yellow?color=green&label=hits&size=small)](https://myhits.vercel.app)
 ###
 ###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Attic-Yellow&show_icons=true&theme=dracula&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Attic-Yellow&show_icons=true&theme=dracula&hide_border=true) -->
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ziou000)](https://solved.ac/ziou000)
 
